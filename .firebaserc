@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-30e29": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-30e29"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-30e29"
+  }
+}
